@@ -1,3 +1,8 @@
+Run This project at your end through mvn from command line.
+Step 1 : mvn clean install
+step 2 : mvn org.pitest:pitest-maven:mutationCoverage
+===========================================================================
+
 Unit Tests allows you to make big changes to code quickly.
 You know it works now because you've run the tests,
 when you make the changes you need to make, you need to get the tests working again.
